@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-06-11)
+
+<section class="features">
+
+### Features
+
+-   [`2aa7a2e`](https://github.com/stdlib-js/stdlib/commit/2aa7a2eb4dff0c1c39533dfd76b01704634da094) - add support for accessor arrays and refactor `stats/base/meankbn2` [(#7309)](https://github.com/stdlib-js/stdlib/pull/7309)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5648](https://github.com/stdlib-js/stdlib/issues/5648)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`2aa7a2e`](https://github.com/stdlib-js/stdlib/commit/2aa7a2eb4dff0c1c39533dfd76b01704634da094) - **feat:** add support for accessor arrays and refactor `stats/base/meankbn2` [(#7309)](https://github.com/stdlib-js/stdlib/pull/7309) _(by Gururaj Gurram)_
 -   [`3565318`](https://github.com/stdlib-js/stdlib/commit/3565318e3639b3e44890ed15ccd73560d3cac14c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`0bba6a2`](https://github.com/stdlib-js/stdlib/commit/0bba6a27810dd0e3c37ddc201c07b938f4ddc3ad) - **refactor:** update paths _(by Aayush Khanna)_
 
